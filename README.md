@@ -1,6 +1,6 @@
-# multipage_app
+# GirlsGetGeeky Application
 
-A new Flutter application.
+An App to coach flutter attendees on 26/27th April 2019.
 
 ## Getting Started
 
